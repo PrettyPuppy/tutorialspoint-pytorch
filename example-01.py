@@ -21,7 +21,7 @@ criterion = torch.nn.MSELoss()
 optimizer = torch.optim.SGD(model.parameters(), lr=0.01)
 
 # gradient descent
-for epoch in range(5000):
+for epoch in range(50000):
 
     # forward pass: compute predicted y by passing x to the model
     y_pred = model(x)
