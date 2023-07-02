@@ -1,1 +1,5 @@
-#first pytorch project
+# 01. First Neural Network
+https://www.tutorialspoint.com/pytorch/pytorch_implementing_first_neural_network.htm
+
+# 02. Linear Regression
+https://www.tutorialspoint.com/pytorch/pytorch_linear_regression.htm
