@@ -83,7 +83,7 @@ def plot_current_fit(title = ''):
     plt.scatter(x, y, s=8)
     a1 = a.data[0][0]
     b1 = b.data[0]
-    x1 = np.array([0., 1.])
+    x1 = np.array([0., 2.])
     y1 = a1 * x1 + b1
     plt.plot(x1, y1, 'r')
     plt.xlabel('x (input)')
