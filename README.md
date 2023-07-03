@@ -24,3 +24,7 @@ https://www.tutorialspoint.com/pytorch/pytorch_feature_extraction_in_convents.ht
 
 # 09. Visualization of Convents
 https://www.tutorialspoint.com/pytorch/pytorch_visualization_of_convents.htm
+
+# 10. Sequence processing with Convents
+https://www.tutorialspoint.com/pytorch/pytorch_sequence_processing_with_convents.htm
+
