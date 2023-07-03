@@ -16,3 +16,6 @@ https://www.tutorialspoint.com/pytorch/pytorch_datasets.htm
 # 06. Train a model
 https://www.tutorialspoint.com/pytorch/pytorch_introduction_to_convents.htm
 
+# 07. Training a Convent from scratch
+https://www.tutorialspoint.com/pytorch/pytorch_training_a_convent_from_scratch.htm
+
