@@ -17,8 +17,7 @@ class Neural_Network(nn.Module):
 # Step 2 : Create a feed forward pattern of function with sigmoid functions.
 #
 def forward(self, X):
-   self.z = torch.matmul(X, self.W1) # 3 X 3 ".dot" 
-   does not broadcast in PyTorch
+   self.z = torch.matmul(X, self.W1) # 3 X 3 '.dot' 
    self.z2 = self.sigmoid(self.z) # activation function
    self.z3 = torch.matmul(self.z2, self.W2)
    o = self.sigmoid(self.z3) # final activation 
@@ -34,8 +33,8 @@ def forward(self, X):
       self.o_delta = self.o_error * self.sigmoidPrime(o) # derivative of sig to error
       self.z2_error = torch.matmul(self.o_delta, torch.t(self.W2))
       self.z2_delta = self.z2_error * self.sigmoidPrime(self.z2)
-      self.W1 + = torch.matmul(torch.t(X), self.z2_delta)
-      self.W2 + = torch.matmul(torch.t(self.z2), self.o_delta)
+      self.W1 += torch.matmul(torch.t(X), self.z2_delta)
+      self.W2 += torch.matmul(torch.t(self.z2), self.o_delta)
 
 #
 # Step 3 : Create a training and prediction model as mentioned below −
