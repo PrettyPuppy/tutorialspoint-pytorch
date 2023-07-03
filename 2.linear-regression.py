@@ -13,7 +13,7 @@ sns.set_style(style='whitegrid')
 plt.rcParams['patch.force_edgecolor'] = True
 
 # 
-#   Step 2 : Create a single training set with the available data set
+#   Step 2 : Create a single training set with the available dataset
 #
 
 # The schematic representation of linear regression
