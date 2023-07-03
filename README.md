@@ -12,3 +12,7 @@ https://www.tutorialspoint.com/pytorch/pytorch_recurrent_neural_network.htm
 
 # 05. Datasets
 https://www.tutorialspoint.com/pytorch/pytorch_datasets.htm
+
+# 06. Train a model
+https://www.tutorialspoint.com/pytorch/pytorch_introduction_to_convents.htm
+
