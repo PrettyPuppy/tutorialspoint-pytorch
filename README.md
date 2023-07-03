@@ -21,3 +21,6 @@ https://www.tutorialspoint.com/pytorch/pytorch_training_a_convent_from_scratch.h
 
 # 08. Feature extraction in Convents
 https://www.tutorialspoint.com/pytorch/pytorch_feature_extraction_in_convents.htm
+
+# 09. Visualization of Convents
+https://www.tutorialspoint.com/pytorch/pytorch_visualization_of_convents.htm
