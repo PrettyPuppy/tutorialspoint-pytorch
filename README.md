@@ -28,3 +28,5 @@ https://www.tutorialspoint.com/pytorch/pytorch_visualization_of_convents.htm
 # 10. Sequence processing with Convents
 https://www.tutorialspoint.com/pytorch/pytorch_sequence_processing_with_convents.htm
 
+# 11. Word embedding
+https://www.tutorialspoint.com/pytorch/pytorch_word_embedding.htm
